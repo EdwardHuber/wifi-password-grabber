@@ -2,7 +2,7 @@
 ---
 
 ### 2. Wi-Fi Password Grabber
-
+Educational demo showing how stored Wi-Fi creds can be retrieved on Windows (awareness only).
 ```markdown
 # 📶 Wi-Fi Password Grabber (Educational)
 
